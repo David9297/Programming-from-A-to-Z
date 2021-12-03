@@ -1,0 +1,51 @@
+{
+  "id": "d5e112e8-09d0-46bd-922b-09b32101fcc4",
+  "parentId": "b61c81dc-adae-41c0-a0e0-1edd6250ab82",
+  "rootParentId": "b61c81dc-adae-41c0-a0e0-1edd6250ab82",
+  "name": "big_roast",
+  "auto": true,
+  "contexts": [
+    "begin_roast-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "begin_roast.begin_roast-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e9171654-2e9c-4620-8f26-0babd0dd2b13",
+          "name": "roast_amount",
+          "required": false,
+          "dataType": "@roast_amount",
+          "value": "$roast_amount",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

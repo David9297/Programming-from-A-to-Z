@@ -1,0 +1,93 @@
+[
+  {
+    "id": "231fc8d5-fc33-4d86-b0f1-6e38b3f04790",
+    "data": [
+      {
+        "text": "What\u0027s good lately?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f9a2a1e0-db93-4a39-9d86-3af956f5314f",
+    "data": [
+      {
+        "text": "How\u0027s everything?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be6741a6-41b2-4a47-b362-2832a933709d",
+    "data": [
+      {
+        "text": "What\u0027s going on?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "37b8cb7c-db3c-419b-88e6-ff6fd5889ef6",
+    "data": [
+      {
+        "text": "What\u0027s up?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "74da7c04-969d-45f8-8575-88cef792a253",
+    "data": [
+      {
+        "text": "What\u0027s new with you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5ec92638-14f5-4b9b-801f-ec0b249f7049",
+    "data": [
+      {
+        "text": "How are you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99729e6f-6524-4c84-a4ba-173c3f63db3d",
+    "data": [
+      {
+        "text": "How you doing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

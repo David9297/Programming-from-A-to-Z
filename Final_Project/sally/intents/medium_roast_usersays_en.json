@@ -1,0 +1,226 @@
+[
+  {
+    "id": "43159af7-4a46-4911-9479-4ee1472bb830",
+    "data": [
+      {
+        "text": "a ",
+        "userDefined": false
+      },
+      {
+        "text": "decent",
+        "meta": "@roast_amount",
+        "alias": "roast_amount",
+        "userDefined": false
+      },
+      {
+        "text": " level of grilling",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3f223300-d222-4175-9a76-3dc768e099eb",
+    "data": [
+      {
+        "text": "i just want ",
+        "userDefined": false
+      },
+      {
+        "text": "enough",
+        "meta": "@roast_amount",
+        "alias": "roast_amount",
+        "userDefined": false
+      },
+      {
+        "text": " roasting but ",
+        "userDefined": false
+      },
+      {
+        "text": "not too much",
+        "meta": "@roast_amount",
+        "alias": "roast_amount",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "46ffe0a9-4277-4fcd-b30c-8ba4e529c0cb",
+    "data": [
+      {
+        "text": "a ",
+        "userDefined": false
+      },
+      {
+        "text": "fair",
+        "meta": "@roast_amount",
+        "alias": "roast_amount",
+        "userDefined": false
+      },
+      {
+        "text": " level of roast",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65dbc3cf-5a5d-476e-a71a-0ed54690401c",
+    "data": [
+      {
+        "text": "i can ",
+        "userDefined": false
+      },
+      {
+        "text": "manage",
+        "meta": "@roast_amount",
+        "alias": "roast_amount",
+        "userDefined": false
+      },
+      {
+        "text": " some roasting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "71c02794-ef59-465c-843e-8b8d8c3af60c",
+    "data": [
+      {
+        "text": "Not so harsh",
+        "meta": "@roast_amount",
+        "alias": "roast_amount",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "335211a1-70c7-4872-a997-3ee7d70ced0a",
+    "data": [
+      {
+        "text": "Roast me at a ",
+        "userDefined": false
+      },
+      {
+        "text": "medium",
+        "meta": "@roast_amount",
+        "alias": "roast_amount",
+        "userDefined": false
+      },
+      {
+        "text": " level",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08ae83db-1d50-4632-ae7c-d01851b55baf",
+    "data": [
+      {
+        "text": "Please bash me ",
+        "userDefined": false
+      },
+      {
+        "text": "sufficiently",
+        "meta": "@roast_amount",
+        "alias": "roast_amount",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6da600d5-1e9b-435c-b91d-e51f175a9e00",
+    "data": [
+      {
+        "text": "I\u0027m fine with a ",
+        "userDefined": false
+      },
+      {
+        "text": "decent",
+        "meta": "@roast_amount",
+        "alias": "roast_amount",
+        "userDefined": false
+      },
+      {
+        "text": " amount of frying",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c0804a2-caa1-4f1e-bc2f-ceb4dd5476a2",
+    "data": [
+      {
+        "text": "enough",
+        "meta": "@roast_amount",
+        "alias": "roast_amount",
+        "userDefined": false
+      },
+      {
+        "text": " grilling is fine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef42f61c-a244-4cc3-981f-d5358427d3d5",
+    "data": [
+      {
+        "text": "I want a ",
+        "userDefined": false
+      },
+      {
+        "text": "normal",
+        "meta": "@roast_amount",
+        "alias": "roast_amount",
+        "userDefined": false
+      },
+      {
+        "text": " amount of roasting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

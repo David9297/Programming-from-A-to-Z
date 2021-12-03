@@ -1,0 +1,251 @@
+[
+  {
+    "id": "f5c0bff8-87bd-4b8c-b942-0a0bac26a831",
+    "data": [
+      {
+        "text": "very ",
+        "userDefined": false
+      },
+      {
+        "text": "little",
+        "meta": "@roast_amount",
+        "alias": "roast_amount",
+        "userDefined": false
+      },
+      {
+        "text": " roasting",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0efb9494-323c-4f30-aca3-efbc18b8080e",
+    "data": [
+      {
+        "text": "a ",
+        "userDefined": false
+      },
+      {
+        "text": "nice",
+        "meta": "@roast_amount",
+        "alias": "roast_amount",
+        "userDefined": false
+      },
+      {
+        "text": " grill",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c82c21a7-1861-4483-8492-459e991994fa",
+    "data": [
+      {
+        "text": "Grill me a ",
+        "userDefined": false
+      },
+      {
+        "text": "bit",
+        "meta": "@roast_amount",
+        "alias": "roast_amount",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e9d720a0-6c4a-498d-a00c-7e2cdd91429e",
+    "data": [
+      {
+        "text": "Make it a ",
+        "userDefined": false
+      },
+      {
+        "text": "mini",
+        "meta": "@roast_amount",
+        "alias": "roast_amount",
+        "userDefined": false
+      },
+      {
+        "text": " roast",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38ea43cc-323c-4ebc-8c29-f58f370a7804",
+    "data": [
+      {
+        "text": "Just a ",
+        "userDefined": false
+      },
+      {
+        "text": "tiny",
+        "meta": "@roast_amount",
+        "alias": "roast_amount",
+        "userDefined": false
+      },
+      {
+        "text": " amount of bashing",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "33585faa-ba6a-418b-a95c-024906d52df7",
+    "data": [
+      {
+        "text": "Fry me very ",
+        "userDefined": false
+      },
+      {
+        "text": "little",
+        "meta": "@roast_amount",
+        "alias": "roast_amount",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6abd0c0b-bf32-4147-a0aa-c574b7f3da4e",
+    "data": [
+      {
+        "text": "I want a ",
+        "userDefined": false
+      },
+      {
+        "text": "light",
+        "meta": "@roast_amount",
+        "alias": "roast_amount",
+        "userDefined": false
+      },
+      {
+        "text": " grilling",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be5fcc8b-bf4d-4b0f-93d6-79e70046a2fe",
+    "data": [
+      {
+        "text": "Not too much",
+        "meta": "@roast_amount",
+        "alias": "roast_amount",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "63092fb8-89ac-4be2-af63-a2018679b80d",
+    "data": [
+      {
+        "text": "not harsh",
+        "meta": "@roast_amount",
+        "alias": "roast_amount",
+        "userDefined": false
+      },
+      {
+        "text": " at all",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85261cc0-05e7-430c-94cf-b25f69a3718e",
+    "data": [
+      {
+        "text": "Be ",
+        "userDefined": false
+      },
+      {
+        "text": "nice",
+        "meta": "@roast_amount",
+        "alias": "roast_amount",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5438a42f-d31b-4b98-aff7-97dd6eb886e0",
+    "data": [
+      {
+        "text": "I only want to be ",
+        "userDefined": false
+      },
+      {
+        "text": "roasted",
+        "userDefined": false
+      },
+      {
+        "text": " a ",
+        "userDefined": false
+      },
+      {
+        "text": "little",
+        "meta": "@roast_amount",
+        "alias": "roast_amount",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

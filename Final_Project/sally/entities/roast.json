@@ -1,0 +1,9 @@
+{
+  "id": "d905ec61-2fef-4129-8e81-c8cf9cf5fab8",
+  "name": "roast",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

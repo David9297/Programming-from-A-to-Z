@@ -1,0 +1,25 @@
+[
+  {
+    "id": "064c9531-3f3e-4893-93b4-584f7017fc71",
+    "data": [
+      {
+        "text": "Yo ",
+        "userDefined": false
+      },
+      {
+        "text": "Sally",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": "!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

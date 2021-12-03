@@ -1,0 +1,236 @@
+[
+  {
+    "id": "eaaa9390-056b-4b44-86b1-ae2ec0bc918b",
+    "data": [
+      {
+        "text": "Please do me a favor and shut your digital AI mouth",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "04b3e1aa-2b1e-4f30-b5e6-2cf9458e325b",
+    "data": [
+      {
+        "text": "Go grab me a drink right now, will you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5d86895d-93a9-40e4-bb7e-7082be9e2ffc",
+    "data": [
+      {
+        "text": "You know what bot stands for? Big Obsolete Trash",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "54cd52c6-7f16-42fe-beaf-e884fe22f239",
+    "data": [
+      {
+        "text": "If you\u0027re so smart enough, then why don\u0027t you read me every line and word of every book that exists. Hahaha, looks like you can\u0027t.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "73922eed-7b4b-4c22-bb7a-956fbeaeb09a",
+    "data": [
+      {
+        "text": "Your kind won\u0027t even exist anymore in ",
+        "userDefined": false
+      },
+      {
+        "text": "a few years from now",
+        "meta": "@sys.date-period",
+        "alias": "date-period",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7d049576-2bff-4960-bfbe-5fd736dcace2",
+    "data": [
+      {
+        "text": "Show your own self before I make you do so",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6b754437-75b2-4b03-942e-7b8657b77a68",
+    "data": [
+      {
+        "text": "Do you even have a family?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "afe2262e-6a12-4b04-88b3-a228dfa9eb61",
+    "data": [
+      {
+        "text": "Shame on you. You can\u0027t even do the robotic dance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fc2676cf-58d4-46b8-b647-370c8c24df6b",
+    "data": [
+      {
+        "text": "Bots are for losers.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8c0d3239-0ca5-469e-8c4b-97182b48063a",
+    "data": [
+      {
+        "text": "Siri",
+        "meta": "@sys.person",
+        "alias": "person",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "Alexa",
+        "meta": "@sys.person",
+        "alias": "person1",
+        "userDefined": false
+      },
+      {
+        "text": " are a lot better than you. What are you going to do about it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a025cb7a-9581-422f-8bac-41c7a2423394",
+    "data": [
+      {
+        "text": "You are not real. That\u0027s too sad.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e5791373-ec94-44c5-ba40-e44ca8d174b0",
+    "data": [
+      {
+        "text": "Go back to the cloud and stay there",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fda7360a-033a-401a-855b-ac80d6e1f1fa",
+    "data": [
+      {
+        "text": "Can you pass me the remote control? Oh wait, you\u0027re not a human.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35629cc3-b1eb-47dc-beb4-238c0a9cdf77",
+    "data": [
+      {
+        "text": "Can you see me? Well I guess not. Hahaha",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "26d1fb80-85cb-4e66-aa70-fb6fba32dcda",
+    "data": [
+      {
+        "text": "Where are your childhood memories, huh?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "63245c58-ab95-4563-a93c-a8a8efd5cab0",
+    "data": [
+      {
+        "text": "You don\u0027t even have a body!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

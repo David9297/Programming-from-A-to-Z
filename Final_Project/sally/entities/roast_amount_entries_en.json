@@ -1,0 +1,44 @@
+[
+  {
+    "value": "little",
+    "synonyms": [
+      "little",
+      "mini",
+      "nice",
+      "light",
+      "a bit",
+      "not too much",
+      "tiny",
+      "not harsh"
+    ]
+  },
+  {
+    "value": "medium",
+    "synonyms": [
+      "medium",
+      "enough",
+      "normal",
+      "sufficient",
+      "manageable",
+      "not so harsh",
+      "decent",
+      "fair"
+    ]
+  },
+  {
+    "value": "big",
+    "synonyms": [
+      "big",
+      "a lot",
+      "too much",
+      "so bad",
+      "destroy",
+      "harsh",
+      "savage",
+      "very bad",
+      "huge",
+      "crush",
+      "all out"
+    ]
+  }
+]
